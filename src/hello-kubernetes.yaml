@@ -32,4 +32,4 @@ spec:
         - containerPort: 8080
         env:
         - name: MESSAGE
-          value: I just deployed this on Kubernetes, version 1.1!
+          value: I just deployed this on Kubernetes, version 1.2!
